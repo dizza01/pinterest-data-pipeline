@@ -1,10 +1,13 @@
 # creds
 db_creds.yaml
 124f98f775af-key-pair.pem
+'notebook_path': '/Workspace/Users/dawudizza182@hotmail.com/Pinterest'
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
 
 # C extensions
 *.so

@@ -4,6 +4,8 @@
 
 This document provides a comprehensive overview of a Pinterest Data Pipeline, outlining the setup steps, components, system requirements, and the functionality of various scripts involved in both batch and stream processing. The pipeline is designed to efficiently gather, process, and send Pinterest-related data to AWS services, specifically utilizing AWS Kinesis for real-time data streaming and batch processing through Apache Spark in Databricks.
 
+
+
 ## File Stucture
 ```plaintext
 
