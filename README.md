@@ -17,8 +17,7 @@ pinterest-data-pipeline/
 ├── README.md
 ├── requirements.txt
 ├── user_post_emulation_streams.py
-└── user_posting_emulation.py
-└── venv/
+
         
 
 
