@@ -7,18 +7,19 @@ This document provides a comprehensive overview of a Pinterest Data Pipeline, ou
 ## File Stucture
 
 pinterest-data-pipeline/
-┣ 📜.gitignore
-┣ 📜124f98f775af_dag.py
-┣ 📜124f98f775af-key-pair.pem
-┣ 📜db_creds.yaml
-┣ 📜LICENSE
-┣ 📜Pinterest batch processing.ipynb
-┣ 📜Pinterest Kinesis Stream.ipynb
-┣ 📜README.md
-┣ 📜requirements.txt
-┣ 📜user_post_emulation_streams.py
-┗ 📜user_posting_emulation.py
-┗ 📂venv/               
+├── .gitignore
+├── 124f98f775af_dag.py
+├── 124f98f775af-key-pair.pem
+├── db_creds.yaml
+├── LICENSE
+├── Pinterest batch processing.ipynb
+├── Pinterest Kinesis Stream.ipynb
+├── README.md
+├── requirements.txt
+├── user_post_emulation_streams.py
+└── user_posting_emulation.py
+└── venv/
+        
 
 
 ## System Requirements
